@@ -7,13 +7,17 @@ import {
 import type { NextPage } from 'next';
 import Head from 'next/head';
 import Image from 'next/image';
+
 import styles from '../styles/Home.module.css';
+
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import Typography from '@mui/material/Typography';
 import Button from '@mui/material/Button';
 import TextField from '@mui/material/TextField';
 import Link from '@mui/material/Link';
 import {green} from '@mui/material/colors';
+
+import Navbar from "./components/Navbar";
 
 const theme = createTheme({
   palette: {
@@ -44,6 +48,7 @@ const Home: NextPage = () => {
       </Head>
 
       <ThemeProvider theme={theme}>
+        <Navbar />
         <main className={styles.main}>
           <Typography variant="h2" align="center" color="secondary" >Rime of the Frostmaiden</Typography>
           <div className={styles.hero}>
