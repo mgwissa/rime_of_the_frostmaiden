@@ -17,7 +17,7 @@ import TextField from '@mui/material/TextField';
 import Link from '@mui/material/Link';
 import {green} from '@mui/material/colors';
 
-import Navbar from "./components/Navbar";
+import Navbar from "../components/Navbar";
 
 const theme = createTheme({
   palette: {

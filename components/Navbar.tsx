@@ -7,12 +7,17 @@ import { createTheme, ThemeProvider } from '@mui/material/styles';
 import { Link } from "react-router-dom";
 
 const theme = createTheme((theme) => ({
+  palette: {
+    primary: {
+      main: '#524e3b',
+    },
+  },
 }));
 
 function Navbar() {
   return (
     <ThemeProvider theme={theme}>
-      <AppBar position="static">
+      <AppBar position="static" color="primary">
         <Typography variant="h4">
           Home
         </Typography>
