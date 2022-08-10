@@ -296,6 +296,47 @@ const Notes = () => {
               <br />
               Ray and Squinty infiltrated the castle.
             </Typography>
+            <Typography variant="h3" color="textPrimary">Week 20:</Typography>
+            <Typography variant="body1">
+              We loot everything
+              <br />
+              We saved the butler, the Speaker's scribe, the translator, the dog trainer, the housemaid.
+              <br />
+              Captain Storm is the leader of the town miitia and brought them to help protect the speaker.
+              <br />
+              Brendo's new character - Eli Ellington (Paladin) - adolescent half-elf in chain mail that's too big for him.
+              <br />
+              Karl (Cleric) - Arakkoa
+              <br />
+              Mahoney's new character - David (Ranger)- a cheery Forest Gnome
+              <br />
+              Tony's new character - Vakas (Ranger) - a smug, douchey Wood Elf
+              <br />
+              There is a cave close to Easthaven reportedly with Chardalyn directly to the East. Hit the mountains and you're there.
+              <br />
+              Cave was guarded by 2 white dragon whelplings and I had to pay 105 gold to get in. The group owes me 21 per person.
+              <br />
+            </Typography>
+            <Typography variant="h3" color="textPrimary">Week 21:</Typography>
+            <Typography variant="body1">
+              We somehow made it out of the cave with 4 sacks of Chardalyn
+              <br />
+              Back at East Haven now.
+              <br />
+              There seems to be a lot going on towards Town Hall
+              <br />
+              Narth is at East Haven
+              <br />
+              Guy on Narth's ship has the Zentarim symbol.
+              <br />
+              Danith is the speaker of East Haven
+            </Typography>
+            <Typography variant="h3" color="textPrimary">Week 22:</Typography>
+            <Typography variant="body1">
+              2 sacks were stolen from our rooms, there was a figure that was slightly taller than Eli. Masculine features. Broke into the rooms. Possibly Vacus
+              <br />
+              The lost netherus city of Ythryn - that's where the lady mage wanted to get with us to plunder it.
+            </Typography>
           </div>
         </main>
       </ThemeProvider>
