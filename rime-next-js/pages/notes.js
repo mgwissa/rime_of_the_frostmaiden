@@ -461,6 +461,10 @@ const Notes = () => {
               <br />
               We find letters between Scath and someone who signs their name "X"
               <br />
+              Scath mentions East Haven, Cair Dineval, The Outhouse.
+              <br />
+              From the context of the letters it seems like X was not in the
+              Zentarim but brought them in as outside help.
             </Typography>
           </div>
         </main>
