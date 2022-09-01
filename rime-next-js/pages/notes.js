@@ -466,6 +466,41 @@ const Notes = () => {
               From the context of the letters it seems like X was not in the
               Zentarim but brought them in as outside help.
             </Typography>
+            <Typography variant="h3" color="textPrimary">
+              Week 24:
+            </Typography>
+            <Typography variant="body1">
+              Three new rumors: 1. I keep telling everyone that this everlasting
+              cold isn't the frost madien it's the arcane brotherhood plotting
+              to take over the town again. This wizard was burned at the stake
+              at East Haven admitted that he was one and said there are others
+              lurking among us. The scoundrel vaelish gant is behind it all but
+              he's locked away in Revel's End but that won't make him any less
+              dangerous.
+              <br />
+              2. If you're looking for help in your adventurers, the goliaths
+              might be of some assistance if they could put aside their
+              differences. Located in the Spine of the World. (Southeast corner
+              of the map (FML))
+              <br />
+              3. Did you see the weird comet that fell out of the sky? It went
+              down in the south. Not too far away. Since then, people have been
+              receiving mental messages in a language they don't understand. I
+              think it might have something to do with this weather. (comet hit
+              straight south of Dougan's Hole)
+              <br />
+              Targos Tavern - Three Flags Sailin (run by Ma)
+              <br />
+              Arcane Brotherhood Symbol - A Crown with a cross on top (the 3e
+              symbol)
+              <br />
+              Now in Termalaine on our way to the cabin (through Lonely Wood)
+              <br />
+              We make it to the cabin.
+              <br />
+              Inside the cabin we see a corpse and a round object that glows
+              when Dave picks it up.
+            </Typography>
           </div>
         </main>
       </ThemeProvider>
