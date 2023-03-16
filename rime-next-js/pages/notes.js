@@ -501,6 +501,57 @@ const Notes = () => {
               Inside the cabin we see a corpse and a round object that glows
               when Dave picks it up.
             </Typography>
+            <Typography variant="h3" color="textPrimary">
+              Week ??:
+            </Typography>
+            <Typography variant="body1">
+              We need 2 things before we go to Reghed Glacier:
+              <br />
+              - The Codicil of White: it is written and guarded by Aural's
+              followers and contains a spell that can carve a passage through
+              the glacier.
+              <br />
+              -- It is currently being held in a Frost Giant Fortress on a
+              mist-shrouded island in the Sea of Moving Ice.
+              <br />
+              - The Professor (Professor Scant) - a family heirloom that was
+              stolen from her by her colleagues. It has the personality of a
+              scholar (Scant). Nass Lantomir (female) currently has it and is
+              after the book. She was an apprentice of one of the 5 archmages
+              who oversee the entire Arcane Brotherhood. The last time she saw
+              her was in Bryn Shander. She stole the orb from the wizard group
+              of the Arcane Brotherhood and was headed towards the Sea of Moving
+              Ice.
+              <br />
+              Vellyn leads us to the dock and does a ritual to summon the whale
+              which works.
+              <br />
+              It takes us to the Isle of Solstice (3 day journey).
+              <br />
+              We see what used to be Frost Giants' civilization called Astoria.
+              <br />
+              On the 3rd day we see a gargantuan bird-shaped creature (Roc) that
+              tries to attack the whale. There is another creature on the back
+              of the bird. The whale dives back under water to avoid it.
+              <br />
+              The creature riding it looked like an owl.
+              <br />
+              As the creature gets close, I feel a sense of sheer anger coming
+              from whatever is in my head.
+              <br />
+              I hear in my head "you are almost there".
+              <br />
+              As we approach the island, it is covered 100% in fog.
+              <br />
+              The whale refuses to stop so we have to jump off of it as it gets
+              close.
+              <br />
+              We make it up 4 giant stairs and run into a surprisingly welcoming
+              Ice Mephite named Sopo.
+              <br />
+              He tells us that the creature riding the Roc was Aural.
+              <br />
+            </Typography>
           </div>
         </main>
       </ThemeProvider>
