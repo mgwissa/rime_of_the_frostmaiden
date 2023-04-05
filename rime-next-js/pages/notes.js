@@ -392,6 +392,7 @@ const Notes = () => {
               Ray and Squinty infiltrated the castle.
             </Typography>
             <Typography variant="h3" color="textPrimary">
+<<<<<<< HEAD
               Week 19:
             </Typography>
             <Typography variant="body1">
@@ -420,6 +421,116 @@ const Notes = () => {
               she's in it now.
               <br />
               She had an "orb of ten towns" (professor's orb) but it was stolen
+=======
+              Week 20:
+            </Typography>
+            <Typography variant="body1">
+              We loot everything
+              <br />
+              We saved the butler, the Speaker's scribe, the translator, the dog
+              trainer, the housemaid.
+              <br />
+              Captain Storm is the leader of the town miitia and brought them to
+              help protect the speaker.
+              <br />
+              Brendo's new character - Eli Ellington (Paladin) - adolescent
+              half-elf in chain mail that's too big for him.
+              <br />
+              Karl (Cleric) - Arakkoa
+              <br />
+              Mahoney's new character - David (Ranger)- a cheery Forest Gnome
+              <br />
+              Tony's new character - Vakas (Ranger) - a smug, douchey Wood Elf
+              <br />
+              There is a cave close to Easthaven reportedly with Chardalyn
+              directly to the East. Hit the mountains and you're there.
+              <br />
+              Cave was guarded by 2 white dragon whelplings and I had to pay 105
+              gold to get in. The group owes me 21 per person.
+              <br />
+            </Typography>
+            <Typography variant="h3" color="textPrimary">
+              Week 21:
+            </Typography>
+            <Typography variant="body1">
+              We somehow made it out of the cave with 4 sacks of Chardalyn
+              <br />
+              Back at East Haven now.
+              <br />
+              There seems to be a lot going on towards Town Hall
+              <br />
+              Narth is at East Haven
+              <br />
+              Guy on Narth's ship has the Zentarim symbol.
+              <br />
+              Danith is the speaker of East Haven
+            </Typography>
+            <Typography variant="h3" color="textPrimary">
+              Week 22:
+            </Typography>
+            <Typography variant="body1">
+              2 sacks were stolen from our rooms, there was a figure that was
+              slightly taller than Eli. Masculine features. Broke into the
+              rooms. Possibly Vacus
+              <br />
+              The lost netherus city of Ythryn - that's where the lady mage
+              wanted to get with us to plunder it.
+            </Typography>
+            <Typography variant="h3" color="textPrimary">
+              Week 23:
+            </Typography>
+            <Typography variant="body1">
+              Speaker of Caer-Dineval - Crannoc Siever
+              <br />
+              Caer Konnig is also weak.
+              <br />
+              Dinev's Rest Inn proprietor - Devin
+              <br />
+              Me and Flint go through Captain Scath's room. We take 4 pendants
+              of the Zentarim so everyone has one now.
+              <br />
+              We find letters between Scath and someone who signs their name "X"
+              <br />
+              Scath mentions East Haven, Cair Dineval, The Outhouse.
+              <br />
+              From the context of the letters it seems like X was not in the
+              Zentarim but brought them in as outside help.
+            </Typography>
+            <Typography variant="h3" color="textPrimary">
+              Week 24:
+            </Typography>
+            <Typography variant="body1">
+              Three new rumors: 1. I keep telling everyone that this everlasting
+              cold isn't the frost madien it's the arcane brotherhood plotting
+              to take over the town again. This wizard was burned at the stake
+              at East Haven admitted that he was one and said there are others
+              lurking among us. The scoundrel vaelish gant is behind it all but
+              he's locked away in Revel's End but that won't make him any less
+              dangerous.
+              <br />
+              2. If you're looking for help in your adventurers, the goliaths
+              might be of some assistance if they could put aside their
+              differences. Located in the Spine of the World. (Southeast corner
+              of the map (FML))
+              <br />
+              3. Did you see the weird comet that fell out of the sky? It went
+              down in the south. Not too far away. Since then, people have been
+              receiving mental messages in a language they don't understand. I
+              think it might have something to do with this weather. (comet hit
+              straight south of Dougan's Hole)
+              <br />
+              Targos Tavern - Three Flags Sailin (run by Ma)
+              <br />
+              Arcane Brotherhood Symbol - A Crown with a cross on top (the 3e
+              symbol)
+              <br />
+              Now in Termalaine on our way to the cabin (through Lonely Wood)
+              <br />
+              We make it to the cabin.
+              <br />
+              Inside the cabin we see a corpse and a round object that glows
+              when Dave picks it up.
+>>>>>>> e8d7981552a2492627e70b72daed3e3988d0fe06
             </Typography>
           </div>
         </main>
