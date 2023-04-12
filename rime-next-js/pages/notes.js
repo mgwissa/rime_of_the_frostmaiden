@@ -392,6 +392,36 @@ const Notes = () => {
               Ray and Squinty infiltrated the castle.
             </Typography>
             <Typography variant="h3" color="textPrimary">
+<<<<<<< HEAD
+              Week 19:
+            </Typography>
+            <Typography variant="body1">
+              David is talking like Eli (calling people "MR. xx")
+              <br />
+              The Chardalyn dragon destroyed Dougan's Hole
+              <br />
+              The brotherhood gal is Vellynne (older white-haired wizard human).
+              She's with 4 Kobold and 2 zombie Kobold
+              <br />
+              Targos is still ok, we long rest then take 100 guards and Vellyne
+              with us to Bremen to wait for the dragon there.
+              <br />
+              Long story short, we killed it in Targos.
+              <br />
+              Vellyne is trying to actually take down the Arcane Brotherhood.
+              She's looking for Ythryn, it's burried somewhere underneath the
+              ice. She's hoping to even find an end to this winter. It's deep
+              inside the Reghed Glacier. It is a lost fragment of the entirety
+              of Nethren. The wizards there created all of the magic that we use
+              today. It may even have a way to end this winter. The glacier can
+              only be cracked where water once flowed but now has frozen. The
+              Brotherhood has found the crack, now they just need the magic.
+              <br />
+              Her parents are very high up in the Brotherhood and that's how
+              she's in it now.
+              <br />
+              She had an "orb of ten towns" (professor's orb) but it was stolen
+=======
               Week 20:
             </Typography>
             <Typography variant="body1">
@@ -500,6 +530,7 @@ const Notes = () => {
               <br />
               Inside the cabin we see a corpse and a round object that glows
               when Dave picks it up.
+>>>>>>> e8d7981552a2492627e70b72daed3e3988d0fe06
             </Typography>
             <Typography variant="h3" color="textPrimary">
               Week ??:
