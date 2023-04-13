@@ -392,7 +392,6 @@ const Notes = () => {
               Ray and Squinty infiltrated the castle.
             </Typography>
             <Typography variant="h3" color="textPrimary">
-<<<<<<< HEAD
               Week 19:
             </Typography>
             <Typography variant="body1">
@@ -421,7 +420,6 @@ const Notes = () => {
               she's in it now.
               <br />
               She had an "orb of ten towns" (professor's orb) but it was stolen
-=======
               Week 20:
             </Typography>
             <Typography variant="body1">
@@ -530,10 +528,9 @@ const Notes = () => {
               <br />
               Inside the cabin we see a corpse and a round object that glows
               when Dave picks it up.
->>>>>>> e8d7981552a2492627e70b72daed3e3988d0fe06
             </Typography>
             <Typography variant="h3" color="textPrimary">
-              Week ??:
+              Week 25:
             </Typography>
             <Typography variant="body1">
               We need 2 things before we go to Reghed Glacier:
@@ -581,6 +578,27 @@ const Notes = () => {
               Ice Mephite named Sopo.
               <br />
               He tells us that the creature riding the Roc was Aural.
+              <br />
+            </Typography>
+            <Typography variant="h3" color="textPrimary">
+              Week 26:
+            </Typography>
+            <Typography variant="body1">
+              We decide to go check out the shipwreck looking for Nass.
+              <br />
+              We have to go through something called the "Garden of Death".
+              <br />
+              The ice structures look sus af but we wind up not touching them at
+              all and we get through.
+              <br />
+              We make it through a 2nd set of ice structures and but this time
+              they're actually adventurers, pirates, and others that are frozen.
+              <br />
+              We don't touch anything and we make it through.
+              <br />
+              We find the orb.
+              <br />
+              We slaughter all the yetis and an abominable snowman.
               <br />
             </Typography>
           </div>
